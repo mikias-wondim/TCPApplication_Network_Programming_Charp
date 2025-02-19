@@ -1,0 +1,140 @@
+2025-02-19 16:03:55.387 +03:00 [INF] TCP Client Worker started.
+2025-02-19 16:03:55.428 +03:00 [INF] Connected to 127.0.0.1:5001
+2025-02-19 16:03:55.437 +03:00 [INF] Server Response: Temperature reading:  20°C
+2025-02-19 16:03:55.438 +03:00 [INF] Connection closed.
+2025-02-19 16:03:55.439 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-02-19 16:03:55.440 +03:00 [INF] Hosting environment: Development
+2025-02-19 16:03:55.441 +03:00 [INF] Content root path: D:\Personal\Projects\Dotnet\Network Application\TCPApplication\TCP.Client
+2025-02-19 16:03:55.442 +03:00 [INF] Connected to 127.0.0.1:5001
+2025-02-19 16:03:55.445 +03:00 [INF] Server Response: Status reading:      Active
+2025-02-19 16:03:55.445 +03:00 [INF] Connection closed.
+2025-02-19 16:03:55.446 +03:00 [INF] Waiting for the next cycle...
+2025-02-19 16:04:00.450 +03:00 [INF] Connected to 127.0.0.1:5001
+2025-02-19 16:04:00.457 +03:00 [INF] Server Response: Temperature reading:  26°C
+2025-02-19 16:04:00.458 +03:00 [INF] Connection closed.
+2025-02-19 16:04:00.459 +03:00 [INF] Connected to 127.0.0.1:5001
+2025-02-19 16:04:00.462 +03:00 [INF] Server Response: Status reading:      Active
+2025-02-19 16:04:00.463 +03:00 [INF] Connection closed.
+2025-02-19 16:04:00.464 +03:00 [INF] Waiting for the next cycle...
+2025-02-19 16:04:05.471 +03:00 [INF] Connected to 127.0.0.1:5001
+2025-02-19 16:04:05.482 +03:00 [INF] Server Response: Temperature reading:  23°C
+2025-02-19 16:04:05.483 +03:00 [INF] Connection closed.
+2025-02-19 16:04:05.484 +03:00 [INF] Connected to 127.0.0.1:5001
+2025-02-19 16:04:05.488 +03:00 [INF] Server Response: Status reading:      Active
+2025-02-19 16:04:05.490 +03:00 [INF] Connection closed.
+2025-02-19 16:04:05.491 +03:00 [INF] Waiting for the next cycle...
+2025-02-19 16:04:10.496 +03:00 [INF] Connected to 127.0.0.1:5001
+2025-02-19 16:04:10.511 +03:00 [INF] Server Response: Temperature reading:  24°C
+2025-02-19 16:04:10.515 +03:00 [INF] Connection closed.
+2025-02-19 16:04:10.516 +03:00 [INF] Connected to 127.0.0.1:5001
+2025-02-19 16:04:10.518 +03:00 [INF] Server Response: Status reading:      Active
+2025-02-19 16:04:10.519 +03:00 [INF] Connection closed.
+2025-02-19 16:04:10.520 +03:00 [INF] Waiting for the next cycle...
+2025-02-19 16:04:15.527 +03:00 [INF] Connected to 127.0.0.1:5001
+2025-02-19 16:04:15.530 +03:00 [INF] Server Response: Temperature reading:  20°C
+2025-02-19 16:04:15.531 +03:00 [INF] Connection closed.
+2025-02-19 16:04:15.532 +03:00 [INF] Connected to 127.0.0.1:5001
+2025-02-19 16:04:15.534 +03:00 [INF] Server Response: Status reading:      Active
+2025-02-19 16:04:15.535 +03:00 [INF] Connection closed.
+2025-02-19 16:04:15.536 +03:00 [INF] Waiting for the next cycle...
+2025-02-19 16:04:20.544 +03:00 [INF] Connected to 127.0.0.1:5001
+2025-02-19 16:04:20.547 +03:00 [INF] Server Response: Temperature reading:  24°C
+2025-02-19 16:04:20.548 +03:00 [INF] Connection closed.
+2025-02-19 16:04:20.549 +03:00 [INF] Connected to 127.0.0.1:5001
+2025-02-19 16:04:20.552 +03:00 [INF] Server Response: Status reading:      Active
+2025-02-19 16:04:20.552 +03:00 [INF] Connection closed.
+2025-02-19 16:04:20.553 +03:00 [INF] Waiting for the next cycle...
+2025-02-19 16:04:25.561 +03:00 [INF] Connected to 127.0.0.1:5001
+2025-02-19 16:04:25.564 +03:00 [INF] Server Response: Temperature reading:  28°C
+2025-02-19 16:04:25.564 +03:00 [INF] Connection closed.
+2025-02-19 16:04:25.566 +03:00 [INF] Connected to 127.0.0.1:5001
+2025-02-19 16:04:25.568 +03:00 [INF] Server Response: Status reading:      Active
+2025-02-19 16:04:25.568 +03:00 [INF] Connection closed.
+2025-02-19 16:04:25.569 +03:00 [INF] Waiting for the next cycle...
+2025-02-19 16:04:30.583 +03:00 [INF] Connected to 127.0.0.1:5001
+2025-02-19 16:04:30.586 +03:00 [INF] Server Response: Temperature reading:  25°C
+2025-02-19 16:04:30.587 +03:00 [INF] Connection closed.
+2025-02-19 16:04:30.588 +03:00 [INF] Connected to 127.0.0.1:5001
+2025-02-19 16:04:30.590 +03:00 [INF] Server Response: Status reading:      Active
+2025-02-19 16:04:30.591 +03:00 [INF] Connection closed.
+2025-02-19 16:04:30.592 +03:00 [INF] Waiting for the next cycle...
+2025-02-19 16:04:35.601 +03:00 [INF] Connected to 127.0.0.1:5001
+2025-02-19 16:04:35.604 +03:00 [INF] Server Response: Temperature reading:  27°C
+2025-02-19 16:04:35.605 +03:00 [INF] Connection closed.
+2025-02-19 16:04:35.606 +03:00 [INF] Connected to 127.0.0.1:5001
+2025-02-19 16:04:35.609 +03:00 [INF] Server Response: Status reading:      Active
+2025-02-19 16:04:35.610 +03:00 [INF] Connection closed.
+2025-02-19 16:04:35.611 +03:00 [INF] Waiting for the next cycle...
+2025-02-19 16:04:40.623 +03:00 [INF] Connected to 127.0.0.1:5001
+2025-02-19 16:04:40.626 +03:00 [INF] Server Response: Temperature reading:  24°C
+2025-02-19 16:04:40.628 +03:00 [INF] Connection closed.
+2025-02-19 16:04:40.629 +03:00 [INF] Connected to 127.0.0.1:5001
+2025-02-19 16:04:40.631 +03:00 [INF] Server Response: Status reading:      Active
+2025-02-19 16:04:40.632 +03:00 [INF] Connection closed.
+2025-02-19 16:04:40.633 +03:00 [INF] Waiting for the next cycle...
+2025-02-19 16:04:45.646 +03:00 [INF] Connected to 127.0.0.1:5001
+2025-02-19 16:04:45.648 +03:00 [INF] Server Response: Temperature reading:  21°C
+2025-02-19 16:04:45.649 +03:00 [INF] Connection closed.
+2025-02-19 16:04:45.650 +03:00 [INF] Connected to 127.0.0.1:5001
+2025-02-19 16:04:45.654 +03:00 [INF] Server Response: Status reading:      Active
+2025-02-19 16:04:45.655 +03:00 [INF] Connection closed.
+2025-02-19 16:04:45.656 +03:00 [INF] Waiting for the next cycle...
+2025-02-19 16:04:50.660 +03:00 [INF] Connected to 127.0.0.1:5001
+2025-02-19 16:04:50.663 +03:00 [INF] Server Response: Temperature reading:  29°C
+2025-02-19 16:04:50.664 +03:00 [INF] Connection closed.
+2025-02-19 16:04:50.665 +03:00 [INF] Connected to 127.0.0.1:5001
+2025-02-19 16:04:50.667 +03:00 [INF] Server Response: Status reading:      Active
+2025-02-19 16:04:50.667 +03:00 [INF] Connection closed.
+2025-02-19 16:04:50.668 +03:00 [INF] Waiting for the next cycle...
+2025-02-19 16:04:55.676 +03:00 [INF] Connected to 127.0.0.1:5001
+2025-02-19 16:04:55.687 +03:00 [INF] Server Response: Temperature reading:  23°C
+2025-02-19 16:04:55.688 +03:00 [INF] Connection closed.
+2025-02-19 16:04:55.690 +03:00 [INF] Connected to 127.0.0.1:5001
+2025-02-19 16:04:55.692 +03:00 [INF] Server Response: Status reading:      Active
+2025-02-19 16:04:55.693 +03:00 [INF] Connection closed.
+2025-02-19 16:04:55.694 +03:00 [INF] Waiting for the next cycle...
+2025-02-19 16:05:00.699 +03:00 [INF] Connected to 127.0.0.1:5001
+2025-02-19 16:05:00.709 +03:00 [INF] Server Response: Temperature reading:  29°C
+2025-02-19 16:05:00.710 +03:00 [INF] Connection closed.
+2025-02-19 16:05:00.711 +03:00 [INF] Connected to 127.0.0.1:5001
+2025-02-19 16:05:00.713 +03:00 [INF] Server Response: Status reading:      Active
+2025-02-19 16:05:00.714 +03:00 [INF] Connection closed.
+2025-02-19 16:05:00.715 +03:00 [INF] Waiting for the next cycle...
+2025-02-19 16:05:05.721 +03:00 [INF] Connected to 127.0.0.1:5001
+2025-02-19 16:05:05.728 +03:00 [INF] Server Response: Temperature reading:  27°C
+2025-02-19 16:05:05.729 +03:00 [INF] Connection closed.
+2025-02-19 16:05:05.730 +03:00 [INF] Connected to 127.0.0.1:5001
+2025-02-19 16:05:05.732 +03:00 [INF] Server Response: Status reading:      Active
+2025-02-19 16:05:05.733 +03:00 [INF] Connection closed.
+2025-02-19 16:05:05.733 +03:00 [INF] Waiting for the next cycle...
+2025-02-19 16:05:10.750 +03:00 [INF] Connected to 127.0.0.1:5001
+2025-02-19 16:05:10.757 +03:00 [INF] Server Response: Temperature reading:  21°C
+2025-02-19 16:05:10.759 +03:00 [INF] Connection closed.
+2025-02-19 16:05:10.760 +03:00 [INF] Connected to 127.0.0.1:5001
+2025-02-19 16:05:10.762 +03:00 [INF] Server Response: Status reading:      Active
+2025-02-19 16:05:10.763 +03:00 [INF] Connection closed.
+2025-02-19 16:05:10.763 +03:00 [INF] Waiting for the next cycle...
+2025-02-19 16:05:15.780 +03:00 [INF] Connected to 127.0.0.1:5001
+2025-02-19 16:05:15.786 +03:00 [INF] Server Response: Temperature reading:  29°C
+2025-02-19 16:05:15.787 +03:00 [INF] Connection closed.
+2025-02-19 16:05:15.788 +03:00 [INF] Connected to 127.0.0.1:5001
+2025-02-19 16:05:15.791 +03:00 [INF] Server Response: Status reading:      Active
+2025-02-19 16:05:15.791 +03:00 [INF] Connection closed.
+2025-02-19 16:05:15.792 +03:00 [INF] Waiting for the next cycle...
+2025-02-19 16:05:20.804 +03:00 [INF] Connected to 127.0.0.1:5001
+2025-02-19 16:05:20.814 +03:00 [INF] Server Response: Temperature reading:  24°C
+2025-02-19 16:05:20.816 +03:00 [INF] Connection closed.
+2025-02-19 16:05:20.817 +03:00 [INF] Connected to 127.0.0.1:5001
+2025-02-19 16:05:20.820 +03:00 [INF] Server Response: Status reading:      Active
+2025-02-19 16:05:20.820 +03:00 [INF] Connection closed.
+2025-02-19 16:05:20.821 +03:00 [INF] Waiting for the next cycle...
+2025-02-19 16:05:25.825 +03:00 [INF] Connected to 127.0.0.1:5001
+2025-02-19 16:05:25.837 +03:00 [INF] Server Response: Temperature reading:  21°C
+2025-02-19 16:05:25.839 +03:00 [INF] Connection closed.
+2025-02-19 16:05:25.841 +03:00 [INF] Connected to 127.0.0.1:5001
+2025-02-19 16:05:25.843 +03:00 [INF] Server Response: Status reading:      Active
+2025-02-19 16:05:25.844 +03:00 [INF] Connection closed.
+2025-02-19 16:05:25.844 +03:00 [INF] Waiting for the next cycle...
+2025-02-19 16:05:28.227 +03:00 [INF] Application is shutting down...
+2025-02-19 16:05:28.232 +03:00 [INF] Shutdown requested.
+2025-02-19 16:05:28.234 +03:00 [INF] TCP Client Worker stopped.
